@@ -24,6 +24,9 @@ python3 -m http.server
 
 Then, point the browser to "http://localhost:8000"
 
+# Screenshot
+
+![Screenshot](Screenshot.jpg?raw=true "Title")
 
 # Thanks 
 
