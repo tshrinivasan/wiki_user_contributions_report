@@ -37,6 +37,10 @@ Check out the working demo: http://derekeder.github.io/csv-to-html-table/
 
 
 # Copyright
-GNU GPL V3
+MIT License
 
-csv-to-html license = MIT License
+# TODO
+* Make this as web application using flask or django
+* deploy in cloud vps of wikimedia
+* Make the items clickable on the HTML table. Like to corresponding wiki page, revision id and diff pages
+
